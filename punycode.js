@@ -439,5 +439,3 @@ const punycode = {
 	'toASCII': toASCII,
 	'toUnicode': toUnicode
 };
-
-module.exports = punycode;
